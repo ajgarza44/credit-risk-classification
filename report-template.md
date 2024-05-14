@@ -5,7 +5,7 @@
 In this section, describe the analysis you completed for the machine learning models used in this Challenge. This might include:
 
 * Explain the purpose of the analysis.
-The purpose o this analysis is to creat and evaluate the accuracy of a data model that predicts teh healthy vs high-risk potential of borrowers of loans.
+The purpose of this analysis is to create and evaluate the accuracy of a data model that predicts the healthy vs high-risk potential of borrowers of loans.
 * Explain what financial information the data was on, and what you needed to predict.
 Past lending transactions from a peer-to-peer lending platform were used to predict credit worthiness of borrowers.
 * Briefly touch on any methods you used (e.g., `LogisticRegression`, or any other algorithms).
